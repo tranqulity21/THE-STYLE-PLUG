@@ -24,7 +24,7 @@ Core Features:
 .
 
 Risks. i.e. competition sabotaging, users resisting, internet access (its costly)
-•	Ensuring accurate geolocation-based services for location-specific availability.
-•	Verifying the authenticity of plugs and maintaining up-to-date listings.
-•	Designing a user-friendly and intuitive interface for seamless navigation and engagement.
+1.Ensuring accurate geolocation-based services for location-specific availability.
+2	Verifying the authenticity of plugs and maintaining up-to-date listings.
+3	Designing a user-friendly and intuitive interface for seamless navigation and engagement.
 
